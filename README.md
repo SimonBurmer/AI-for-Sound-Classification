@@ -1,5 +1,5 @@
-# Environmental-Sound-Classification
+# Sound classification for Predictive Maintenance
 
-https://esc50.herokuapp.com/
+
 
 
