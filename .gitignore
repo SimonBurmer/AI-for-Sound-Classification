@@ -1,0 +1,15 @@
+/.DS_Store
+/.ipynb_checkpoints
+/Alterversuch:ESC-50-master
+/Aptfile
+/Procfile
+/audioutils.py
+/fastai-variant
+/master.zip
+/models.py
+/requirements.txt
+/runtime.txt
+/saved
+/serve.py
+/templates
+/utils.py
